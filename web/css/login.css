@@ -1,0 +1,30 @@
+@charset "UTF-8";
+.login_m{
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+.login_logo{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.login_border{
+    height: 320px;
+    padding: 30px 40px 30px 40px;
+}
+input.txt_input{
+    width: 300px;
+    height: 40px;
+    margin: 20px;
+}
+input.txt_input2{
+    margin: 20px;
+}
+input.login_button{
+    width: 300px;
+    height: 40px;
+    margin: 20px;
+    padding: 6px 0;
+    background-color:#1aaa55;
+}
